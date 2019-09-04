@@ -1,0 +1,19 @@
+{
+  "name": "hellosaeedrepositry",
+  "version": "1.0.0",
+  "description": "Say Hello to saeed alsharqawi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeeds/helloSaeedRepositry.git"
+  },
+  "author": "saeed Alsharqawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saeeds/helloSaeedRepositry/issues"
+  },
+  "homepage": "https://github.com/saeeds/helloSaeedRepositry#readme"
+}
